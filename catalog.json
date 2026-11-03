@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-03T18:46:09Z",
+  "generated_at": "2026-11-03T18:57:52Z",
   "apps": [
     {
       "id": "com.pulse.social",
@@ -101,26 +101,6 @@
       "changelog": "",
       "featured": false,
       "updated_at": "2026-09-30"
-    },
-    {
-      "id": "com.example.swipedelete",
-      "name": "Swipe Delete",
-      "developer": "ACN Development",
-      "category": "Outils",
-      "tagline": "Faites le tri dans vos photos",
-      "description": "Nettoyez votre galerie en un geste : glissez à gauche pour supprimer, à droite pour garder.",
-      "version_name": "1.0",
-      "version_code": 1,
-      "min_sdk": 29,
-      "size_bytes": 121724183,
-      "sha256": "cc55298da6ef88593f81adbaa8c405bbd75f1de9e5d47e1a2d80a307e3bce8d3",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.example.swipedelete-v1.0/Swipe-Delete-1.0.apk",
-      "asset_name": "Swipe-Delete-1.0.apk",
-      "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.example.swipedelete.png",
-      "screenshots": [],
-      "changelog": "",
-      "featured": false,
-      "updated_at": "2026-04-29"
     },
     {
       "id": "com.cutflow.app",
@@ -309,16 +289,16 @@
       "category": "Outils",
       "tagline": "Le store des apps ACN",
       "description": "Installez et mettez à jour toutes les applications ACN Development en un seul endroit, avec vérification d'intégrité de chaque fichier.",
-      "version_name": "2.1.0",
-      "version_code": 3,
+      "version_name": "2.2.0",
+      "version_code": 4,
       "min_sdk": 26,
-      "size_bytes": 18793476,
-      "sha256": "f6eb69d3c26b3ea5972e49f15096a24ed79ddbc60607e4462c290333e3de9513",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acn.store-v2.1.0/ACN-Store-2.1.0.apk",
-      "asset_name": "ACN-Store-2.1.0.apk",
+      "size_bytes": 18802865,
+      "sha256": "464ee421562e2c9122701e5cbd4c217f3efe00b958ce255b03853bedbf8b4ed4",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acn.store-v2.2.0/ACN-Store-2.2.0.apk",
+      "asset_name": "ACN-Store-2.2.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acn.store.png",
       "screenshots": [],
-      "changelog": "• Nouvelle icône du store\n• Mises à jour automatiques et silencieuses (à l'ouverture et toutes les 6 h) pour les applis installées via ACN Store\n• Catalogue toujours à jour (plus de délai de cache après une publication)\n• 7 nouvelles applis : Folio, Table privée, Cartes Locales, Video Minimizer, Social Connector, Downloader, Swipe to Delete",
+      "changelog": "• Catalogue mis à jour avec les dernières versions de toutes vos applications (Folio 3.4.1, Hors-Piste 3.2.0, Cartes Locales, Video Minimizer, Downloader, Table Privée, etc.)\n• Synchronisation temps réel améliorée et icônes HD intégrées",
       "featured": false,
       "updated_at": "2026-11-03"
     }

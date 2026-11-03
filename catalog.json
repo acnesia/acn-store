@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-03T03:26:22Z",
+  "generated_at": "2026-11-03T03:34:58Z",
   "apps": [
     {
       "id": "com.pulse.social",
@@ -329,16 +329,16 @@
       "category": "Outils",
       "tagline": "Le store des apps ACN",
       "description": "Installez et mettez à jour toutes les applications ACN Development en un seul endroit, avec vérification d'intégrité de chaque fichier.",
-      "version_name": "2.0.0",
-      "version_code": 2,
+      "version_name": "2.1.0",
+      "version_code": 3,
       "min_sdk": 26,
-      "size_bytes": 18610332,
-      "sha256": "c531aab2b078f89e307b820d69725fc733bbe00d093b4638f7131cccd515e97c",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acn.store-v2.0.0/ACN-Store-2.0.0.apk",
-      "asset_name": "ACN-Store-2.0.0.apk",
+      "size_bytes": 18793476,
+      "sha256": "f6eb69d3c26b3ea5972e49f15096a24ed79ddbc60607e4462c290333e3de9513",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acn.store-v2.1.0/ACN-Store-2.1.0.apk",
+      "asset_name": "ACN-Store-2.1.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acn.store.png",
       "screenshots": [],
-      "changelog": "• Nouvelle interface façon Play Store (clair / sombre)\n• Installation et mises à jour qui fonctionnent pour toutes les apps ACN\n• Vérification SHA-256 et de la signature avant chaque installation\n• Vrais avis et notes des utilisateurs\n• Notifications de mises à jour et « Tout mettre à jour »",
+      "changelog": "• Nouvelle icône du store\n• Mises à jour automatiques et silencieuses (à l'ouverture et toutes les 6 h) pour les applis installées via ACN Store\n• Catalogue toujours à jour (plus de délai de cache après une publication)\n• 7 nouvelles applis : Folio, Table privée, Cartes Locales, Video Minimizer, Social Connector, Downloader, Swipe to Delete",
       "featured": false,
       "updated_at": "2026-11-03"
     }

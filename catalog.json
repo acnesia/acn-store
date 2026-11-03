@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-03T18:57:52Z",
+  "generated_at": "2026-11-03T19:11:24Z",
   "apps": [
     {
       "id": "com.pulse.social",
@@ -17,7 +17,10 @@
       "download_url": "https://github.com/acnesia/hors-piste-releases/releases/download/v3.2.0/Hors-Piste.apk",
       "asset_name": "Hors-Piste.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.pulse.social.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.pulse.social_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.pulse.social_2.png"
+      ],
       "changelog": "• Amis proches & Publications privées entre abonnés mutuels\n• Liste d'Amis proches : Créez et modifiez votre liste d'amis proches à tout moment depuis votre profil, les paramètres ou directement avant de publier. Vous pouvez aussi ajouter ou retirer quelqu'un en un geste depuis son profil (sans qu'il reçoive de notification).\n• Publications & Stories Amis proches : Partagez vos photos, vidéos, stories et threads uniquement avec les personnes choisies dans votre liste d'amis proches, repérables grâce au cercle et au badge vert émeraude.\n• Mode Privé · Mutuels : Nouvelle audience réservée aux abonnés mutuels — seules les personnes qui vous suivent et que vous suivez en retour peuvent voir ces publications et stories.\n• Confidentialité renforcée : Les contenus Amis proches et Mutuels ne peuvent pas être repostés ni partagés en externe, n'apparaissent jamais dans Explorer / Tendances et se verrouillent immédiatement si l'abonnement mutuel prend fin.",
       "featured": true,
       "updated_at": "2026-11-03"
@@ -37,7 +40,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/fr.amis.undercover-v1.1/Undercover-1.1.apk",
       "asset_name": "Undercover-1.1.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/fr.amis.undercover.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.amis.undercover_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.amis.undercover_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-11-01"
@@ -57,7 +63,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.photoroulette.app-v1.0.0/Photo-Roulette-1.0.0.apk",
       "asset_name": "Photo-Roulette-1.0.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.photoroulette.app.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.photoroulette.app_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.photoroulette.app_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-11-03"
@@ -77,7 +86,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acnesia.action-v1.0.5/Action-ou-Verite-1.0.5.apk",
       "asset_name": "Action-ou-Verite-1.0.5.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acnesia.action.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.action_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.action_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-11-03"
@@ -97,7 +109,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acnesia.pulsegoal-v2.2.3/PulseGoal-2.2.3.apk",
       "asset_name": "PulseGoal-2.2.3.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acnesia.pulsegoal.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.pulsegoal_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.pulsegoal_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-09-30"
@@ -117,7 +132,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.cutflow.app-v1.0/CutFlow-1.0.apk",
       "asset_name": "CutFlow-1.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.cutflow.app.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.cutflow.app_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.cutflow.app_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-05-20"
@@ -137,7 +155,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.example.multisitemobile-v1.1/Multisite-1.1.apk",
       "asset_name": "Multisite-1.1.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.example.multisitemobile.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.example.multisitemobile_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.example.multisitemobile_2.png"
+      ],
       "changelog": "• Nouvelle icône",
       "featured": false,
       "updated_at": "2026-11-03"
@@ -157,7 +178,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.rappels.app-v1.0/Rappels-1.0.apk",
       "asset_name": "Rappels-1.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.rappels.app.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.rappels.app_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.rappels.app_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-10-21"
@@ -177,7 +201,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/fr.folio.photos-v3.4.1/Folio-3.4.1.apk",
       "asset_name": "Folio-3.4.1.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/fr.folio.photos.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-11-03"
@@ -197,7 +224,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.votrejeu.tableprivee-v1.1.0/Table-privee-1.1.0.apk",
       "asset_name": "Table-privee-1.1.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.votrejeu.tableprivee.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.votrejeu.tableprivee_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.votrejeu.tableprivee_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-11-03"
@@ -217,7 +247,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acnesia.localcards-v1.0.0/Cartes-Locales-1.0.0.apk",
       "asset_name": "Cartes-Locales-1.0.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acnesia.localcards.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.localcards_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.localcards_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-11-03"
@@ -237,7 +270,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.example.videominimizer-v1.0/Video-Minimizer-1.0.apk",
       "asset_name": "Video-Minimizer-1.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.example.videominimizer.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.example.videominimizer_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.example.videominimizer_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-11-03"
@@ -257,7 +293,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.example.socialconnector-v1.0/Social-Connector-1.0.apk",
       "asset_name": "Social-Connector-1.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.example.socialconnector.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.example.socialconnector_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.example.socialconnector_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-11-03"
@@ -277,7 +316,10 @@
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.example.downloaderapp-v1.0/Downloader-1.0.apk",
       "asset_name": "Downloader-1.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.example.downloaderapp.png",
-      "screenshots": [],
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.example.downloaderapp_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.example.downloaderapp_2.png"
+      ],
       "changelog": "",
       "featured": false,
       "updated_at": "2026-11-03"
@@ -289,16 +331,19 @@
       "category": "Outils",
       "tagline": "Le store des apps ACN",
       "description": "Installez et mettez à jour toutes les applications ACN Development en un seul endroit, avec vérification d'intégrité de chaque fichier.",
-      "version_name": "2.2.0",
-      "version_code": 4,
+      "version_name": "2.3.0",
+      "version_code": 5,
       "min_sdk": 26,
-      "size_bytes": 18802865,
-      "sha256": "464ee421562e2c9122701e5cbd4c217f3efe00b958ce255b03853bedbf8b4ed4",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acn.store-v2.2.0/ACN-Store-2.2.0.apk",
-      "asset_name": "ACN-Store-2.2.0.apk",
+      "size_bytes": 18802601,
+      "sha256": "4d5291d33c23146075e09818522d68ed063196c7e92e31419bd58983ce7f523b",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acn.store-v2.3.0/ACN-Store-2.3.0.apk",
+      "asset_name": "ACN-Store-2.3.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acn.store.png",
-      "screenshots": [],
-      "changelog": "• Catalogue mis à jour avec les dernières versions de toutes vos applications (Folio 3.4.1, Hors-Piste 3.2.0, Cartes Locales, Video Minimizer, Downloader, Table Privée, etc.)\n• Synchronisation temps réel améliorée et icônes HD intégrées",
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acn.store_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acn.store_2.png"
+      ],
+      "changelog": "• Ajout des images et captures d'écran HD pour chaque application\n• Nouvelles icônes sur mesure (Downloader, Video Minimizer, Social Connector)\n• Synchronisation temps réel améliorée",
       "featured": false,
       "updated_at": "2026-11-03"
     }

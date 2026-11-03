@@ -30,12 +30,6 @@
     "asset_name": "PulseGoal-2.2.3.apk"
   },
   {
-    "id": "com.example.swipedelete",
-    "local_apk": "Swipe-Delete/SwipeDelete.apk",
-    "release_tag": "com.example.swipedelete-v1.0",
-    "asset_name": "Swipe-Delete-1.0.apk"
-  },
-  {
     "id": "com.cutflow.app",
     "local_apk": "CutFlow/CutFlow.apk",
     "release_tag": "com.cutflow.app-v1.0",
@@ -92,7 +86,7 @@
   {
     "id": "com.acn.store",
     "local_apk": "ACN-Store/ACN-Store.apk",
-    "release_tag": "com.acn.store-v2.1.0",
-    "asset_name": "ACN-Store-2.1.0.apk"
+    "release_tag": "com.acn.store-v2.2.0",
+    "asset_name": "ACN-Store-2.2.0.apk"
   }
 ]

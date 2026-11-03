@@ -52,14 +52,6 @@
       "description": "Suivi d'objectifs personnels au quotidien avec statistiques visuelles. Vos données restent sur votre téléphone."
     },
     {
-      "apk": "Swipe-Delete/SwipeDelete.apk",
-      "name": "Swipe Delete",
-      "developer": "ACN Development",
-      "category": "Outils",
-      "tagline": "Faites le tri dans vos photos",
-      "description": "Nettoyez votre galerie en un geste : glissez à gauche pour supprimer, à droite pour garder."
-    },
-    {
       "apk": "CutFlow/CutFlow.apk",
       "name": "CutFlow",
       "developer": "ACN Development",
@@ -140,7 +132,7 @@
       "category": "Outils",
       "tagline": "Le store des apps ACN",
       "description": "Installez et mettez à jour toutes les applications ACN Development en un seul endroit, avec vérification d'intégrité de chaque fichier.",
-      "changelog": "• Nouvelle icône du store\n• Mises à jour automatiques et silencieuses (à l'ouverture et toutes les 6 h) pour les applis installées via ACN Store\n• Catalogue toujours à jour (plus de délai de cache après une publication)\n• 7 nouvelles applis : Folio, Table privée, Cartes Locales, Video Minimizer, Social Connector, Downloader, Swipe to Delete",
+      "changelog": "• Catalogue mis à jour avec les dernières versions de toutes vos applications (Folio 3.4.1, Hors-Piste 3.2.0, Cartes Locales, Video Minimizer, Downloader, Table Privée, etc.)\n• Synchronisation temps réel améliorée et icônes HD intégrées",
       "icon": "ACN-Store/branding/icon-512.png"
     }
   ]

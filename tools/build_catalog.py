@@ -131,7 +131,7 @@ def main():
             Image.open(WORKSPACE / entry["icon"]).convert("RGBA").resize((192, 192), Image.LANCZOS).save(icon_dest, "PNG", optimize=True)
             has_icon = True
         else:
-            has_icon = extract_icon(apk, info["icons"], icon_dest)
+            has_icon = extract_icon(apk, info["icons"], icon_dest) or icon_dest.exists()
         changelog = top_changelog(WORKSPACE / entry["changelog_file"]) if entry.get("changelog_file") else ""
 
         apps.append({

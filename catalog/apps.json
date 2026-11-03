@@ -32,7 +32,7 @@
       "category": "Jeux",
       "tagline": "À qui est cette photo ?",
       "description": "Party game multijoueur : une photo est tirée au hasard dans la galerie d'un joueur, les autres doivent deviner à qui elle appartient.",
-      "icon": "Photo-Roulette/expo-app/assets/icon.png"
+      "icon": "Photo-Roulette/assets/icon.png"
     },
     {
       "apk": "Action-Verite/ActionVerite.apk",
@@ -131,14 +131,6 @@
       "category": "Outils",
       "tagline": "Téléchargez vos médias",
       "description": "Téléchargez des fichiers et médias depuis Internet et retrouvez-les sur votre téléphone.",
-      "developer": "ACN Development"
-    },
-    {
-      "apk": "Swipe-To-Delete/SwipeToDelete.apk",
-      "name": "Swipe to Delete",
-      "category": "Outils",
-      "tagline": "Ancienne version de Swipe Delete",
-      "description": "Première version du nettoyeur de photos par glissement : à gauche pour supprimer, à droite pour garder.",
       "developer": "ACN Development"
     },
     {

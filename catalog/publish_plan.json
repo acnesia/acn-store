@@ -90,12 +90,6 @@
     "asset_name": "Downloader-1.0.apk"
   },
   {
-    "id": "com.example.swipedeleteapp",
-    "local_apk": "Swipe-To-Delete/SwipeToDelete.apk",
-    "release_tag": "com.example.swipedeleteapp-v1.0",
-    "asset_name": "Swipe-to-Delete-1.0.apk"
-  },
-  {
     "id": "com.acn.store",
     "local_apk": "ACN-Store/ACN-Store.apk",
     "release_tag": "com.acn.store-v2.1.0",

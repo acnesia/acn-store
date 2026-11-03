@@ -2,7 +2,8 @@
   "store": {
     "release_repo": "acnesia/acn-store",
     "catalog_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/catalog.json",
-    "icon_base_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/"
+    "icon_base_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/",
+    "screenshots_base_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/"
   },
   "apps": [
     {
@@ -132,7 +133,7 @@
       "category": "Outils",
       "tagline": "Le store des apps ACN",
       "description": "Installez et mettez à jour toutes les applications ACN Development en un seul endroit, avec vérification d'intégrité de chaque fichier.",
-      "changelog": "• Catalogue mis à jour avec les dernières versions de toutes vos applications (Folio 3.4.1, Hors-Piste 3.2.0, Cartes Locales, Video Minimizer, Downloader, Table Privée, etc.)\n• Synchronisation temps réel améliorée et icônes HD intégrées",
+      "changelog": "• Ajout des images et captures d'écran HD pour chaque application\n• Nouvelles icônes sur mesure (Downloader, Video Minimizer, Social Connector)\n• Synchronisation temps réel améliorée",
       "icon": "ACN-Store/branding/icon-512.png"
     }
   ]

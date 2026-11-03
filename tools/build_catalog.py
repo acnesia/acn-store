@@ -27,8 +27,10 @@ STORE_DIR = Path(__file__).resolve().parent.parent
 WORKSPACE = STORE_DIR.parent
 CATALOG_DIR = STORE_DIR / "catalog"
 ICONS_DIR = CATALOG_DIR / "icons"
+SCREENSHOTS_DIR = CATALOG_DIR / "screenshots"
 ASSET_CATALOG = STORE_DIR / "app" / "src" / "main" / "assets" / "catalog.json"
 ASSET_ICONS = STORE_DIR / "app" / "src" / "main" / "assets" / "icons"
+ASSET_SCREENSHOTS = STORE_DIR / "app" / "src" / "main" / "assets" / "screenshots"
 SDK = Path(os.environ.get("ANDROID_HOME", Path.home() / "AppData/Local/Android/Sdk"))
 
 
@@ -151,7 +153,10 @@ def main():
             "release_tag": f"{pkg}-v{version}" if "download_url" not in entry else None,
             "local_apk": entry["apk"],
             "icon_url": store["icon_base_url"] + f"{pkg}.png" if has_icon else None,
-            "screenshots": entry.get("screenshots", []),
+            "screenshots": entry.get("screenshots") or [
+                f"{store.get('screenshots_base_url', 'https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/')}{pkg}_1.png",
+                f"{store.get('screenshots_base_url', 'https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/')}{pkg}_2.png"
+            ],
             "changelog": changelog or entry.get("changelog", ""),
             "featured": bool(entry.get("featured")),
             "updated_at": datetime.fromtimestamp(apk.stat().st_mtime, timezone.utc).strftime("%Y-%m-%d"),
@@ -172,10 +177,13 @@ def main():
     (CATALOG_DIR / "catalog.json").write_text(data, encoding="utf-8")
     ASSET_CATALOG.parent.mkdir(parents=True, exist_ok=True)
     ASSET_CATALOG.write_text(data, encoding="utf-8")
-    # Icons are bundled too, so the store looks right offline or before a publish
+    # Icons and Screenshots are bundled too
     ASSET_ICONS.mkdir(parents=True, exist_ok=True)
     for icon in ICONS_DIR.glob("*.png"):
         (ASSET_ICONS / icon.name).write_bytes(icon.read_bytes())
+    ASSET_SCREENSHOTS.mkdir(parents=True, exist_ok=True)
+    for shot in SCREENSHOTS_DIR.glob("*.png"):
+        (ASSET_SCREENSHOTS / shot.name).write_bytes(shot.read_bytes())
     print(f"[Catalog] {len(apps)} apps -> {CATALOG_DIR / 'catalog.json'}")
 
 

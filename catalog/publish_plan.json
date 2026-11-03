@@ -86,7 +86,7 @@
   {
     "id": "com.acn.store",
     "local_apk": "ACN-Store/ACN-Store.apk",
-    "release_tag": "com.acn.store-v2.2.0",
-    "asset_name": "ACN-Store-2.2.0.apk"
+    "release_tag": "com.acn.store-v2.3.0",
+    "asset_name": "ACN-Store-2.3.0.apk"
   }
 ]

@@ -91,9 +91,11 @@ def main():
                 if APPLY:
                     gh("release", "upload", tag, str(staged), "-R", repo, "--clobber")
 
-    # 2. Icons, then the catalog itself
+    # 2. Icons, Screenshots, then the catalog itself
     for icon in sorted((CATALOG_DIR / "icons").glob("*.png")):
         put_file(repo, f"icons/{icon.name}", icon.read_bytes(), f"icons: {icon.stem}")
+    for shot in sorted((CATALOG_DIR / "screenshots").glob("*.png")):
+        put_file(repo, f"screenshots/{shot.name}", shot.read_bytes(), f"screenshots: {shot.stem}")
     put_file(repo, "catalog.json", (CATALOG_DIR / "catalog.json").read_bytes(), f"catalog: {catalog['generated_at']}")
     step("done" if APPLY else "dry run finished, re-run with --yes to publish")
 

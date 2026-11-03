@@ -1,0 +1,155 @@
+{
+  "store": {
+    "release_repo": "acnesia/acn-store",
+    "catalog_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/catalog.json",
+    "icon_base_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/"
+  },
+  "apps": [
+    {
+      "apk": "Hors-Piste/Hors-Piste.apk",
+      "name": "Hors-Piste",
+      "developer": "ACN Development",
+      "category": "Social",
+      "tagline": "Le réseau social privé entre amis",
+      "description": "Réseau social privé auto-hébergé : posts, stories, messages privés en temps réel, amis proches et un mode « swap » unique pour incarner temporairement le compte d'un ami.",
+      "download_url": "https://github.com/acnesia/hors-piste-releases/releases/download/v{version}/Hors-Piste.apk",
+      "changelog_file": "Hors-Piste/CHANGELOG.md",
+      "featured": true
+    },
+    {
+      "apk": "Undercover/Undercover.apk",
+      "name": "Undercover",
+      "developer": "ACN Development",
+      "category": "Jeux",
+      "tagline": "Trouvez l'imposteur",
+      "description": "Jeu de déduction entre amis : chacun reçoit un mot secret, sauf l'imposteur. Discutez, votez et démasquez-le avant qu'il ne soit trop tard.",
+      "icon": "Undercover/android/app/src/main/assets/public/icon-512.png"
+    },
+    {
+      "apk": "Photo-Roulette/PhotoRoulette.apk",
+      "name": "Photo Roulette",
+      "developer": "ACN Development",
+      "category": "Jeux",
+      "tagline": "À qui est cette photo ?",
+      "description": "Party game multijoueur : une photo est tirée au hasard dans la galerie d'un joueur, les autres doivent deviner à qui elle appartient.",
+      "icon": "Photo-Roulette/expo-app/assets/icon.png"
+    },
+    {
+      "apk": "Action-Verite/ActionVerite.apk",
+      "name": "Action ou Vérité",
+      "developer": "ACN Development",
+      "category": "Jeux",
+      "tagline": "Le classique des soirées",
+      "description": "Le jeu Action ou Vérité revisité, avec des centaines de défis et de questions et plusieurs modes de jeu pour vos soirées.",
+      "icon": "Action-Verite/assets/icon.png"
+    },
+    {
+      "apk": "PulseGoal/PulseGoal.apk",
+      "name": "PulseGoal",
+      "developer": "ACN Development",
+      "category": "Productivité",
+      "tagline": "Vos objectifs, jour après jour",
+      "description": "Suivi d'objectifs personnels au quotidien avec statistiques visuelles. Vos données restent sur votre téléphone."
+    },
+    {
+      "apk": "Swipe-Delete/SwipeDelete.apk",
+      "name": "Swipe Delete",
+      "developer": "ACN Development",
+      "category": "Outils",
+      "tagline": "Faites le tri dans vos photos",
+      "description": "Nettoyez votre galerie en un geste : glissez à gauche pour supprimer, à droite pour garder."
+    },
+    {
+      "apk": "CutFlow/CutFlow.apk",
+      "name": "CutFlow",
+      "developer": "ACN Development",
+      "category": "Multimédia",
+      "tagline": "Montage rapide et léger",
+      "description": "Outil de découpe et d'édition vidéo/audio fluide et ultra-léger."
+    },
+    {
+      "apk": "Multisite/Multisite.apk",
+      "name": "Multisite",
+      "developer": "ACN Development",
+      "category": "Outils",
+      "tagline": "Tous vos sites au même endroit",
+      "description": "Gestionnaire multi-sites : ouvrez et basculez rapidement entre vos sites et comptes favoris.",
+      "icon": "Multisite/branding/icon-512.png",
+      "changelog": "• Nouvelle icône"
+    },
+    {
+      "apk": "Rappels/Rappels.apk",
+      "name": "Rappels",
+      "developer": "ACN Development",
+      "category": "Productivité",
+      "tagline": "N'oubliez plus rien",
+      "description": "Rappels et exercices de mémoire avec alertes intelligentes."
+    },
+    {
+      "apk": "Folio/Folio.apk",
+      "name": "Folio",
+      "category": "Photo",
+      "tagline": "Triez vos photos et vidéos",
+      "description": "Une grande carte pour trier rapidement votre galerie : catégories personnelles, mode Vidéos avec lecteur intégré, et décisions de tri conservées d'une mise à jour à l'autre.",
+      "developer": "ACN Development"
+    },
+    {
+      "apk": "Table-Privee/TablePrivee.apk",
+      "name": "Table privée",
+      "category": "Jeux",
+      "tagline": "Blackjack et poker entre amis",
+      "description": "Blackjack et Poker 5 cartes avec jetons fictifs. Deux appareils partagent une partie dans un salon privé, synchronisée en temps réel.",
+      "developer": "ACN Development"
+    },
+    {
+      "apk": "Cartes-Locales/CartesLocales.apk",
+      "name": "Cartes Locales",
+      "category": "Jeux",
+      "tagline": "Jouez aux cartes sur le même Wi-Fi",
+      "description": "Jeu de cartes multijoueur en réseau local : les téléphones connectés au même Wi-Fi se trouvent automatiquement.",
+      "developer": "ACN Development"
+    },
+    {
+      "apk": "Video-Minimizer/VideoMinimizer.apk",
+      "name": "Video Minimizer",
+      "category": "Multimédia",
+      "tagline": "Réduisez le poids de vos vidéos",
+      "description": "Compresse vos vidéos pour libérer de l'espace ou les partager plus facilement, directement sur le téléphone.",
+      "developer": "ACN Development"
+    },
+    {
+      "apk": "Social-Connector/SocialConnector.apk",
+      "name": "Social Connector",
+      "category": "Social",
+      "tagline": "Vos réseaux au même endroit",
+      "description": "Accédez rapidement à vos réseaux sociaux depuis une seule application.",
+      "developer": "ACN Development"
+    },
+    {
+      "apk": "Downloader-App/DownloaderApp.apk",
+      "name": "Downloader",
+      "category": "Outils",
+      "tagline": "Téléchargez vos médias",
+      "description": "Téléchargez des fichiers et médias depuis Internet et retrouvez-les sur votre téléphone.",
+      "developer": "ACN Development"
+    },
+    {
+      "apk": "Swipe-To-Delete/SwipeToDelete.apk",
+      "name": "Swipe to Delete",
+      "category": "Outils",
+      "tagline": "Ancienne version de Swipe Delete",
+      "description": "Première version du nettoyeur de photos par glissement : à gauche pour supprimer, à droite pour garder.",
+      "developer": "ACN Development"
+    },
+    {
+      "apk": "ACN-Store/ACN-Store.apk",
+      "name": "ACN Store",
+      "developer": "ACN Development",
+      "category": "Outils",
+      "tagline": "Le store des apps ACN",
+      "description": "Installez et mettez à jour toutes les applications ACN Development en un seul endroit, avec vérification d'intégrité de chaque fichier.",
+      "changelog": "• Nouvelle icône du store\n• Mises à jour automatiques et silencieuses (à l'ouverture et toutes les 6 h) pour les applis installées via ACN Store\n• Catalogue toujours à jour (plus de délai de cache après une publication)\n• 7 nouvelles applis : Folio, Table privée, Cartes Locales, Video Minimizer, Social Connector, Downloader, Swipe to Delete",
+      "icon": "ACN-Store/branding/icon-512.png"
+    }
+  ]
+}

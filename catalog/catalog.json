@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-04T03:09:27Z",
+  "generated_at": "2026-11-04T18:14:38Z",
   "apps": [
     {
       "id": "com.pulse.social",
@@ -193,19 +193,19 @@
       "category": "Photo",
       "tagline": "Triez vos photos et vidéos",
       "description": "Une grande carte pour trier rapidement votre galerie : catégories personnelles, mode Vidéos avec lecteur intégré, et décisions de tri conservées d'une mise à jour à l'autre.",
-      "version_name": "3.5.0",
-      "version_code": 9,
+      "version_name": "3.6.0",
+      "version_code": 10,
       "min_sdk": 30,
-      "size_bytes": 91762253,
-      "sha256": "6217aeb6bb093aed3516bcdf8bbc2f1b06b4776ac7fbe99dc613f8c76eb2ad72",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/fr.folio.photos-v3.5.0/Folio-3.5.0.apk",
-      "asset_name": "Folio-3.5.0.apk",
+      "size_bytes": 91778636,
+      "sha256": "3c9b0ffafdb249d5e3656cec783fd70d757e882d880f01d145e7caa91a3ecfa4",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/fr.folio.photos-v3.6.0/Folio-3.6.0.apk",
+      "asset_name": "Folio-3.6.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/fr.folio.photos.png",
       "screenshots": [
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_2.png"
       ],
-      "changelog": "• Moteur de retour haptique haute fidélité : vibration précise au passage du seuil de décision du swipe, retours tactiles différenciés (Garder vs Corbeille) et dynamique visuelle interactive de la carte arrière.\n• Indicateur en temps réel de l'espace de stockage libéré : affichage du poids de chaque média directement sur la carte de tri, compteur d'espace libéré dans l'en-tête et mise à jour dynamique du badge Corbeille.\n• Support complet des claviers physiques et périphériques : tri au clavier (flèches, pavé numérique, espace pour pause vidéo, retour arrière/Ctrl+Z pour annuler, raccourcis plein écran et favoris).",
+      "changelog": "• Refonte visuelle complète : nouvelle interface sombre OLED épurée, conteneurs modernes, typographie nette et palette Stitch (vert émeraude, rouge corail, violet électrique).\n• Filtrage granulaire des sources et messageries : détection automatique et tri dédié pour WhatsApp, Facebook, Instagram, Appareil photo, Captures d'écran, Téléchargements, Snapchat, TikTok, Twitter/X et Telegram.\n• Nouvel onglet « Sources & Applications » : jauge visuelle de répartition du stockage, cartes d'accès direct pour chaque application en 1 touche, et sélecteurs de types de médias.\n• Cartes de tri enrichies : capsule haute avec icône de marque, poids, durée vidéo et badge favori, boutons d'accès rapide plein écran et tampons dynamiques de décision.\n• Intégration de la recherche par source : affinez la recherche globale par application en plus des années, dossiers et favoris.",
       "featured": false,
       "updated_at": "2026-11-04"
     },

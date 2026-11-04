@@ -84,7 +84,8 @@
       "category": "Photo",
       "tagline": "Triez vos photos et vidéos",
       "description": "Une grande carte pour trier rapidement votre galerie : catégories personnelles, mode Vidéos avec lecteur intégré, et décisions de tri conservées d'une mise à jour à l'autre.",
-      "developer": "ACN Development"
+      "developer": "ACN Development",
+      "changelog_file": "Folio/CHANGELOG.md"
     },
     {
       "apk": "Table-Privee/TablePrivee.apk",

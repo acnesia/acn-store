@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-03T19:11:24Z",
+  "generated_at": "2026-11-04T03:09:27Z",
   "apps": [
     {
       "id": "com.pulse.social",
@@ -193,21 +193,21 @@
       "category": "Photo",
       "tagline": "Triez vos photos et vidéos",
       "description": "Une grande carte pour trier rapidement votre galerie : catégories personnelles, mode Vidéos avec lecteur intégré, et décisions de tri conservées d'une mise à jour à l'autre.",
-      "version_name": "3.4.1",
-      "version_code": 8,
+      "version_name": "3.5.0",
+      "version_code": 9,
       "min_sdk": 30,
-      "size_bytes": 91762247,
-      "sha256": "b4843b966b606ffcb4f28d23c6cca10e92037c41b32bc575283f04d7f71f9906",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/fr.folio.photos-v3.4.1/Folio-3.4.1.apk",
-      "asset_name": "Folio-3.4.1.apk",
+      "size_bytes": 91762253,
+      "sha256": "6217aeb6bb093aed3516bcdf8bbc2f1b06b4776ac7fbe99dc613f8c76eb2ad72",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/fr.folio.photos-v3.5.0/Folio-3.5.0.apk",
+      "asset_name": "Folio-3.5.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/fr.folio.photos.png",
       "screenshots": [
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_2.png"
       ],
-      "changelog": "",
+      "changelog": "• Moteur de retour haptique haute fidélité : vibration précise au passage du seuil de décision du swipe, retours tactiles différenciés (Garder vs Corbeille) et dynamique visuelle interactive de la carte arrière.\n• Indicateur en temps réel de l'espace de stockage libéré : affichage du poids de chaque média directement sur la carte de tri, compteur d'espace libéré dans l'en-tête et mise à jour dynamique du badge Corbeille.\n• Support complet des claviers physiques et périphériques : tri au clavier (flèches, pavé numérique, espace pour pause vidéo, retour arrière/Ctrl+Z pour annuler, raccourcis plein écran et favoris).",
       "featured": false,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-04"
     },
     {
       "id": "com.votrejeu.tableprivee",

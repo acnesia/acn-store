@@ -175,6 +175,7 @@ def main():
     slim = {**catalog, "apps": [{k: v for k, v in a.items() if k not in build_only} for a in apps]}
     data = json.dumps(slim, ensure_ascii=False, indent=2)
     (CATALOG_DIR / "catalog.json").write_text(data, encoding="utf-8")
+    (STORE_DIR / "catalog.json").write_text(data, encoding="utf-8")
     ASSET_CATALOG.parent.mkdir(parents=True, exist_ok=True)
     ASSET_CATALOG.write_text(data, encoding="utf-8")
     # Icons and Screenshots are bundled too

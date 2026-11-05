@@ -193,21 +193,23 @@
       "category": "Photo",
       "tagline": "Triez vos photos et vidéos",
       "description": "Une grande carte pour trier rapidement votre galerie : catégories personnelles, mode Vidéos avec lecteur intégré, et décisions de tri conservées d'une mise à jour à l'autre.",
-      "version_name": "3.6.0",
-      "version_code": 10,
+      "version_name": "3.7.0",
+      "version_code": 11,
       "min_sdk": 30,
-      "size_bytes": 91778636,
-      "sha256": "3c9b0ffafdb249d5e3656cec783fd70d757e882d880f01d145e7caa91a3ecfa4",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/fr.folio.photos-v3.6.0/Folio-3.6.0.apk",
-      "asset_name": "Folio-3.6.0.apk",
+      "size_bytes": 91811398,
+      "sha256": "ad8c1710b0ee517759d3a208c7b5fef2ab109dc5d7e383096ad29320cd8915cf",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/fr.folio.photos-v3.7.0/Folio-3.7.0.apk",
+      "asset_name": "Folio-3.7.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/fr.folio.photos.png",
       "screenshots": [
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_2.png"
       ],
-      "changelog": "• Refonte visuelle complète : nouvelle interface sombre OLED épurée, conteneurs modernes, typographie nette et palette Stitch (vert émeraude, rouge corail, violet électrique).\n• Filtrage granulaire des sources et messageries : détection automatique et tri dédié pour WhatsApp, Facebook, Instagram, Appareil photo, Captures d'écran, Téléchargements, Snapchat, TikTok, Twitter/X et Telegram.\n• Nouvel onglet « Sources & Applications » : jauge visuelle de répartition du stockage, cartes d'accès direct pour chaque application en 1 touche, et sélecteurs de types de médias.\n• Cartes de tri enrichies : capsule haute avec icône de marque, poids, durée vidéo et badge favori, boutons d'accès rapide plein écran et tampons dynamiques de décision.\n• Intégration de la recherche par source : affinez la recherche globale par application en plus des années, dossiers et favoris.",
+      "changelog": "• Nettoyage intelligent : détection locale des doublons, rafales et photos floues, avec la meilleure photo proposée. Rien n'est supprimé, tout va dans la corbeille Folio.
+• Statistiques : objectif quotidien réglable, série de jours consécutifs, graphique des 7 derniers jours et espace à libérer cumulé.
+• Pastille d'objectif du jour dans l'écran de tri.",
       "featured": false,
-      "updated_at": "2026-11-04"
+      "updated_at": "2026-11-05"
     },
     {
       "id": "com.votrejeu.tableprivee",

@@ -205,9 +205,7 @@
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_2.png"
       ],
-      "changelog": "• Nettoyage intelligent : détection locale des doublons, rafales et photos floues, avec la meilleure photo proposée. Rien n'est supprimé, tout va dans la corbeille Folio.
-• Statistiques : objectif quotidien réglable, série de jours consécutifs, graphique des 7 derniers jours et espace à libérer cumulé.
-• Pastille d'objectif du jour dans l'écran de tri.",
+      "changelog": "• Nettoyage intelligent : détection locale des doublons, rafales et photos floues, avec la meilleure photo proposée. Rien n'est supprimé, tout va dans la corbeille Folio.\n• Statistiques : objectif quotidien réglable, série de jours consécutifs, graphique des 7 derniers jours et espace à libérer cumulé.\n• Pastille d'objectif du jour dans l'écran de tri.",
       "featured": false,
       "updated_at": "2026-11-05"
     },

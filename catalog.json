@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-04T18:14:38Z",
+  "generated_at": "2026-11-07T22:52:54Z",
   "apps": [
     {
       "id": "com.pulse.social",
@@ -9,21 +9,21 @@
       "category": "Social",
       "tagline": "Le réseau social privé entre amis",
       "description": "Réseau social privé auto-hébergé : posts, stories, messages privés en temps réel, amis proches et un mode « swap » unique pour incarner temporairement le compte d'un ami.",
-      "version_name": "3.2.0",
-      "version_code": 320,
+      "version_name": "3.3.0",
+      "version_code": 330,
       "min_sdk": 24,
-      "size_bytes": 12840817,
-      "sha256": "090e11f790c736a093ff0844f4d171537fd10531df71c5b85f51bc8190a1f60a",
-      "download_url": "https://github.com/acnesia/hors-piste-releases/releases/download/v3.2.0/Hors-Piste.apk",
+      "size_bytes": 12851132,
+      "sha256": "8d96bc98afe3e07929bd073572289bf49ce2a853abb388aeca419d828adf5f41",
+      "download_url": "https://github.com/acnesia/hors-piste-releases/releases/download/v3.3.0/Hors-Piste.apk",
       "asset_name": "Hors-Piste.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.pulse.social.png",
       "screenshots": [
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.pulse.social_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.pulse.social_2.png"
       ],
-      "changelog": "• Amis proches & Publications privées entre abonnés mutuels\n• Liste d'Amis proches : Créez et modifiez votre liste d'amis proches à tout moment depuis votre profil, les paramètres ou directement avant de publier. Vous pouvez aussi ajouter ou retirer quelqu'un en un geste depuis son profil (sans qu'il reçoive de notification).\n• Publications & Stories Amis proches : Partagez vos photos, vidéos, stories et threads uniquement avec les personnes choisies dans votre liste d'amis proches, repérables grâce au cercle et au badge vert émeraude.\n• Mode Privé · Mutuels : Nouvelle audience réservée aux abonnés mutuels — seules les personnes qui vous suivent et que vous suivez en retour peuvent voir ces publications et stories.\n• Confidentialité renforcée : Les contenus Amis proches et Mutuels ne peuvent pas être repostés ni partagés en externe, n'apparaissent jamais dans Explorer / Tendances et se verrouillent immédiatement si l'abonnement mutuel prend fin.",
+      "changelog": "• Correctif Notifications Samsung, Anti-Doublon & 7 Nouveaux Mini-Jeux\n• Correctif Samsung (Fermeture de l'application) : Résolution complète du problème qui fermait l'application sur les téléphones Samsung lors de la réception des premières notifications ou au premier lancement.\n• Fini les doubles notifications : Lorsque vous êtes sur l'application, seule la notification interne s'affiche en haut de l'écran (plus de double alerte avec celle du téléphone).\n• Notifications instantanées hors de l'application : Enregistrement et synchronisation automatique des notifications push dès la connexion ou l'inscription pour recevoir immédiatement les messages et alertes même quand l'application est fermée.\n• 7 Nouveaux Mini-Jeux en Soirée / Arcade : Ajout de *Je n'ai jamais 🔥*, *Tu préfères... 🤔*, *Quiz Culture & Pop 🧠*, *Tic-Tac Bombe 💣*, *Le Mytho / Bluff 📚*, *Drapeau Rouge 🚩* et *Devine l'Emoji 🎬*.",
       "featured": true,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-07"
     },
     {
       "id": "fr.amis.undercover",
@@ -205,7 +205,7 @@
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_2.png"
       ],
-      "changelog": "• Nettoyage intelligent : détection locale des doublons, rafales et photos floues, avec la meilleure photo proposée. Rien n'est supprimé, tout va dans la corbeille Folio.\n• Statistiques : objectif quotidien réglable, série de jours consécutifs, graphique des 7 derniers jours et espace à libérer cumulé.\n• Pastille d'objectif du jour dans l'écran de tri.",
+      "changelog": "• Nettoyage intelligent (Sources → Nettoyage) : détection locale des doublons et rafales par empreinte perceptuelle, avec la meilleure photo proposée, et repérage des photos floues par score de netteté. Rien n'est supprimé : tout va dans la corbeille Folio.\n• Statistiques et motivation : objectif quotidien réglable (10, 25, 50 ou 100), série de jours consécutifs, graphique des 7 derniers jours et totaux cumulés dont l'espace à libérer.\n• Pastille d'objectif du jour dans l'écran de tri, avec retour haptique à l'objectif atteint.\n• Le geste Retour ramène des écrans Nettoyage et Statistiques vers Sources.",
       "featured": false,
       "updated_at": "2026-11-05"
     },

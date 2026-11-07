@@ -1,4 +1,4 @@
-{
+﻿{
   "schema": 1,
   "generated_at": "2026-11-07T22:52:54Z",
   "apps": [
@@ -7,8 +7,8 @@
       "name": "Hors-Piste",
       "developer": "ACN Development",
       "category": "Social",
-      "tagline": "Le réseau social privé entre amis",
-      "description": "Réseau social privé auto-hébergé : posts, stories, messages privés en temps réel, amis proches et un mode « swap » unique pour incarner temporairement le compte d'un ami.",
+      "tagline": "Le rÃ©seau social privÃ© entre amis",
+      "description": "RÃ©seau social privÃ© auto-hÃ©bergÃ© : posts, stories, messages privÃ©s en temps rÃ©el, amis proches et un mode Â« swap Â» unique pour incarner temporairement le compte d'un ami.",
       "version_name": "3.3.0",
       "version_code": 330,
       "min_sdk": 24,
@@ -21,7 +21,7 @@
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.pulse.social_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.pulse.social_2.png"
       ],
-      "changelog": "• Correctif Notifications Samsung, Anti-Doublon & 7 Nouveaux Mini-Jeux\n• Correctif Samsung (Fermeture de l'application) : Résolution complète du problème qui fermait l'application sur les téléphones Samsung lors de la réception des premières notifications ou au premier lancement.\n• Fini les doubles notifications : Lorsque vous êtes sur l'application, seule la notification interne s'affiche en haut de l'écran (plus de double alerte avec celle du téléphone).\n• Notifications instantanées hors de l'application : Enregistrement et synchronisation automatique des notifications push dès la connexion ou l'inscription pour recevoir immédiatement les messages et alertes même quand l'application est fermée.\n• 7 Nouveaux Mini-Jeux en Soirée / Arcade : Ajout de *Je n'ai jamais 🔥*, *Tu préfères... 🤔*, *Quiz Culture & Pop 🧠*, *Tic-Tac Bombe 💣*, *Le Mytho / Bluff 📚*, *Drapeau Rouge 🚩* et *Devine l'Emoji 🎬*.",
+      "changelog": "â€¢ Correctif Notifications Samsung, Anti-Doublon & 7 Nouveaux Mini-Jeux\nâ€¢ Correctif Samsung (Fermeture de l'application) : RÃ©solution complÃ¨te du problÃ¨me qui fermait l'application sur les tÃ©lÃ©phones Samsung lors de la rÃ©ception des premiÃ¨res notifications ou au premier lancement.\nâ€¢ Fini les doubles notifications : Lorsque vous Ãªtes sur l'application, seule la notification interne s'affiche en haut de l'Ã©cran (plus de double alerte avec celle du tÃ©lÃ©phone).\nâ€¢ Notifications instantanÃ©es hors de l'application : Enregistrement et synchronisation automatique des notifications push dÃ¨s la connexion ou l'inscription pour recevoir immÃ©diatement les messages et alertes mÃªme quand l'application est fermÃ©e.\nâ€¢ 7 Nouveaux Mini-Jeux en SoirÃ©e / Arcade : Ajout de *Je n'ai jamais ðŸ”¥*, *Tu prÃ©fÃ¨res... ðŸ¤”*, *Quiz Culture & Pop ðŸ§ *, *Tic-Tac Bombe ðŸ’£*, *Le Mytho / Bluff ðŸ“š*, *Drapeau Rouge ðŸš©* et *Devine l'Emoji ðŸŽ¬*.",
       "featured": true,
       "updated_at": "2026-11-07"
     },
@@ -31,7 +31,7 @@
       "developer": "ACN Development",
       "category": "Jeux",
       "tagline": "Trouvez l'imposteur",
-      "description": "Jeu de déduction entre amis : chacun reçoit un mot secret, sauf l'imposteur. Discutez, votez et démasquez-le avant qu'il ne soit trop tard.",
+      "description": "Jeu de dÃ©duction entre amis : chacun reÃ§oit un mot secret, sauf l'imposteur. Discutez, votez et dÃ©masquez-le avant qu'il ne soit trop tard.",
       "version_name": "1.1",
       "version_code": 2,
       "min_sdk": 24,
@@ -53,8 +53,8 @@
       "name": "Photo Roulette",
       "developer": "ACN Development",
       "category": "Jeux",
-      "tagline": "À qui est cette photo ?",
-      "description": "Party game multijoueur : une photo est tirée au hasard dans la galerie d'un joueur, les autres doivent deviner à qui elle appartient.",
+      "tagline": "Ã€ qui est cette photo ?",
+      "description": "Party game multijoueur : une photo est tirÃ©e au hasard dans la galerie d'un joueur, les autres doivent deviner Ã  qui elle appartient.",
       "version_name": "1.0.0",
       "version_code": 1,
       "min_sdk": 24,
@@ -69,15 +69,15 @@
       ],
       "changelog": "",
       "featured": false,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-07"
     },
     {
       "id": "com.acnesia.action",
-      "name": "Action ou Vérité",
+      "name": "Action ou VÃ©ritÃ©",
       "developer": "ACN Development",
       "category": "Jeux",
-      "tagline": "Le classique des soirées",
-      "description": "Le jeu Action ou Vérité revisité, avec des centaines de défis et de questions et plusieurs modes de jeu pour vos soirées.",
+      "tagline": "Le classique des soirÃ©es",
+      "description": "Le jeu Action ou VÃ©ritÃ© revisitÃ©, avec des centaines de dÃ©fis et de questions et plusieurs modes de jeu pour vos soirÃ©es.",
       "version_name": "1.0.5",
       "version_code": 10005,
       "min_sdk": 24,
@@ -92,15 +92,15 @@
       ],
       "changelog": "",
       "featured": false,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-07"
     },
     {
       "id": "com.acnesia.pulsegoal",
       "name": "PulseGoal",
       "developer": "ACN Development",
-      "category": "Productivité",
-      "tagline": "Vos objectifs, jour après jour",
-      "description": "Suivi d'objectifs personnels au quotidien avec statistiques visuelles. Vos données restent sur votre téléphone.",
+      "category": "ProductivitÃ©",
+      "tagline": "Vos objectifs, jour aprÃ¨s jour",
+      "description": "Suivi d'objectifs personnels au quotidien avec statistiques visuelles. Vos donnÃ©es restent sur votre tÃ©lÃ©phone.",
       "version_name": "2.2.3",
       "version_code": 9,
       "min_sdk": 26,
@@ -121,9 +121,9 @@
       "id": "com.cutflow.app",
       "name": "CutFlow",
       "developer": "ACN Development",
-      "category": "Multimédia",
-      "tagline": "Montage rapide et léger",
-      "description": "Outil de découpe et d'édition vidéo/audio fluide et ultra-léger.",
+      "category": "MultimÃ©dia",
+      "tagline": "Montage rapide et lÃ©ger",
+      "description": "Outil de dÃ©coupe et d'Ã©dition vidÃ©o/audio fluide et ultra-lÃ©ger.",
       "version_name": "1.0",
       "version_code": 1,
       "min_sdk": 24,
@@ -145,7 +145,7 @@
       "name": "Multisite",
       "developer": "ACN Development",
       "category": "Outils",
-      "tagline": "Tous vos sites au même endroit",
+      "tagline": "Tous vos sites au mÃªme endroit",
       "description": "Gestionnaire multi-sites : ouvrez et basculez rapidement entre vos sites et comptes favoris.",
       "version_name": "1.1",
       "version_code": 2,
@@ -159,17 +159,17 @@
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.example.multisitemobile_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.example.multisitemobile_2.png"
       ],
-      "changelog": "• Nouvelle icône",
+      "changelog": "â€¢ Nouvelle icÃ´ne",
       "featured": false,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-07"
     },
     {
       "id": "com.rappels.app",
       "name": "Rappels",
       "developer": "ACN Development",
-      "category": "Productivité",
+      "category": "ProductivitÃ©",
       "tagline": "N'oubliez plus rien",
-      "description": "Rappels et exercices de mémoire avec alertes intelligentes.",
+      "description": "Rappels et exercices de mÃ©moire avec alertes intelligentes.",
       "version_name": "1.0",
       "version_code": 1,
       "min_sdk": 26,
@@ -191,8 +191,8 @@
       "name": "Folio",
       "developer": "ACN Development",
       "category": "Photo",
-      "tagline": "Triez vos photos et vidéos",
-      "description": "Une grande carte pour trier rapidement votre galerie : catégories personnelles, mode Vidéos avec lecteur intégré, et décisions de tri conservées d'une mise à jour à l'autre.",
+      "tagline": "Triez vos photos et vidÃ©os",
+      "description": "Une grande carte pour trier rapidement votre galerie : catÃ©gories personnelles, mode VidÃ©os avec lecteur intÃ©grÃ©, et dÃ©cisions de tri conservÃ©es d'une mise Ã  jour Ã  l'autre.",
       "version_name": "3.7.0",
       "version_code": 11,
       "min_sdk": 30,
@@ -205,17 +205,17 @@
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/fr.folio.photos_2.png"
       ],
-      "changelog": "• Nettoyage intelligent (Sources → Nettoyage) : détection locale des doublons et rafales par empreinte perceptuelle, avec la meilleure photo proposée, et repérage des photos floues par score de netteté. Rien n'est supprimé : tout va dans la corbeille Folio.\n• Statistiques et motivation : objectif quotidien réglable (10, 25, 50 ou 100), série de jours consécutifs, graphique des 7 derniers jours et totaux cumulés dont l'espace à libérer.\n• Pastille d'objectif du jour dans l'écran de tri, avec retour haptique à l'objectif atteint.\n• Le geste Retour ramène des écrans Nettoyage et Statistiques vers Sources.",
+      "changelog": "â€¢ Nettoyage intelligent (Sources â†’ Nettoyage) : dÃ©tection locale des doublons et rafales par empreinte perceptuelle, avec la meilleure photo proposÃ©e, et repÃ©rage des photos floues par score de nettetÃ©. Rien n'est supprimÃ© : tout va dans la corbeille Folio.\nâ€¢ Statistiques et motivation : objectif quotidien rÃ©glable (10, 25, 50 ou 100), sÃ©rie de jours consÃ©cutifs, graphique des 7 derniers jours et totaux cumulÃ©s dont l'espace Ã  libÃ©rer.\nâ€¢ Pastille d'objectif du jour dans l'Ã©cran de tri, avec retour haptique Ã  l'objectif atteint.\nâ€¢ Le geste Retour ramÃ¨ne des Ã©crans Nettoyage et Statistiques vers Sources.",
       "featured": false,
       "updated_at": "2026-11-05"
     },
     {
       "id": "com.votrejeu.tableprivee",
-      "name": "Table privée",
+      "name": "Table privÃ©e",
       "developer": "ACN Development",
       "category": "Jeux",
       "tagline": "Blackjack et poker entre amis",
-      "description": "Blackjack et Poker 5 cartes avec jetons fictifs. Deux appareils partagent une partie dans un salon privé, synchronisée en temps réel.",
+      "description": "Blackjack et Poker 5 cartes avec jetons fictifs. Deux appareils partagent une partie dans un salon privÃ©, synchronisÃ©e en temps rÃ©el.",
       "version_name": "1.1.0",
       "version_code": 1,
       "min_sdk": 24,
@@ -230,15 +230,15 @@
       ],
       "changelog": "",
       "featured": false,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-07"
     },
     {
       "id": "com.acnesia.localcards",
       "name": "Cartes Locales",
       "developer": "ACN Development",
       "category": "Jeux",
-      "tagline": "Jouez aux cartes sur le même Wi-Fi",
-      "description": "Jeu de cartes multijoueur en réseau local : les téléphones connectés au même Wi-Fi se trouvent automatiquement.",
+      "tagline": "Jouez aux cartes sur le mÃªme Wi-Fi",
+      "description": "Jeu de cartes multijoueur en rÃ©seau local : les tÃ©lÃ©phones connectÃ©s au mÃªme Wi-Fi se trouvent automatiquement.",
       "version_name": "1.0.0",
       "version_code": 1,
       "min_sdk": 26,
@@ -253,15 +253,15 @@
       ],
       "changelog": "",
       "featured": false,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-07"
     },
     {
       "id": "com.example.videominimizer",
       "name": "Video Minimizer",
       "developer": "ACN Development",
-      "category": "Multimédia",
-      "tagline": "Réduisez le poids de vos vidéos",
-      "description": "Compresse vos vidéos pour libérer de l'espace ou les partager plus facilement, directement sur le téléphone.",
+      "category": "MultimÃ©dia",
+      "tagline": "RÃ©duisez le poids de vos vidÃ©os",
+      "description": "Compresse vos vidÃ©os pour libÃ©rer de l'espace ou les partager plus facilement, directement sur le tÃ©lÃ©phone.",
       "version_name": "1.0",
       "version_code": 1,
       "min_sdk": 26,
@@ -276,15 +276,15 @@
       ],
       "changelog": "",
       "featured": false,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-07"
     },
     {
       "id": "com.example.socialconnector",
       "name": "Social Connector",
       "developer": "ACN Development",
       "category": "Social",
-      "tagline": "Vos réseaux au même endroit",
-      "description": "Accédez rapidement à vos réseaux sociaux depuis une seule application.",
+      "tagline": "Vos rÃ©seaux au mÃªme endroit",
+      "description": "AccÃ©dez rapidement Ã  vos rÃ©seaux sociaux depuis une seule application.",
       "version_name": "1.0",
       "version_code": 1,
       "min_sdk": 24,
@@ -299,15 +299,15 @@
       ],
       "changelog": "",
       "featured": false,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-07"
     },
     {
       "id": "com.example.downloaderapp",
       "name": "Downloader",
       "developer": "ACN Development",
       "category": "Outils",
-      "tagline": "Téléchargez vos médias",
-      "description": "Téléchargez des fichiers et médias depuis Internet et retrouvez-les sur votre téléphone.",
+      "tagline": "TÃ©lÃ©chargez vos mÃ©dias",
+      "description": "TÃ©lÃ©chargez des fichiers et mÃ©dias depuis Internet et retrouvez-les sur votre tÃ©lÃ©phone.",
       "version_name": "1.0",
       "version_code": 1,
       "min_sdk": 24,
@@ -322,7 +322,7 @@
       ],
       "changelog": "",
       "featured": false,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-07"
     },
     {
       "id": "com.acn.store",
@@ -330,22 +330,22 @@
       "developer": "ACN Development",
       "category": "Outils",
       "tagline": "Le store des apps ACN",
-      "description": "Installez et mettez à jour toutes les applications ACN Development en un seul endroit, avec vérification d'intégrité de chaque fichier.",
-      "version_name": "2.3.0",
-      "version_code": 5,
+      "description": "Installez et mettez Ã  jour toutes les applications ACN Development en un seul endroit, avec vÃ©rification d'intÃ©gritÃ© de chaque fichier.",
+      "version_name": "2.3.1",
+      "version_code": 6,
       "min_sdk": 26,
-      "size_bytes": 18802601,
-      "sha256": "4d5291d33c23146075e09818522d68ed063196c7e92e31419bd58983ce7f523b",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acn.store-v2.3.0/ACN-Store-2.3.0.apk",
-      "asset_name": "ACN-Store-2.3.0.apk",
+      "size_bytes": 2893392,
+      "sha256": "356bdc1d0c9efea3860eb34949e99807fee6548173fd3b41246858c0bbbb064f",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acn.store-v2.3.1/ACN-Store-2.3.1.apk",
+      "asset_name": "ACN-Store-2.3.1.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acn.store.png",
       "screenshots": [
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acn.store_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acn.store_2.png"
       ],
-      "changelog": "• Ajout des images et captures d'écran HD pour chaque application\n• Nouvelles icônes sur mesure (Downloader, Video Minimizer, Social Connector)\n• Synchronisation temps réel améliorée",
+      "changelog": "â€¢ Ajout des images et captures d'Ã©cran HD pour chaque application\nâ€¢ Nouvelles icÃ´nes sur mesure (Downloader, Video Minimizer, Social Connector)\nâ€¢ Synchronisation temps rÃ©el amÃ©liorÃ©e",
       "featured": false,
-      "updated_at": "2026-11-03"
+      "updated_at": "2026-11-07"
     }
   ]
 }

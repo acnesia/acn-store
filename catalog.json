@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-08T22:26:15Z",
+  "generated_at": "2026-11-08T22:55:28Z",
   "apps": [
     {
       "id": "com.marcel.judgment",
@@ -12,8 +12,8 @@
       "version_name": "1.0",
       "version_code": 1,
       "min_sdk": 24,
-      "size_bytes": 4421400,
-      "sha256": "3042e227503ab71b88ede77b115ac54d143b84c2bcd02b2eb614039d46ce2954",
+      "size_bytes": 4570214,
+      "sha256": "cdd961e6c5132a876e1e2e9a00c40eb548f17012e7dfeab2902bf4f85afa5e72",
       "download_url": "https://github.com/acnesia/acn-store/releases/download/com.marcel.judgment-v1.0/Marcel-1.0.apk",
       "asset_name": "Marcel-1.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.marcel.judgment.png",

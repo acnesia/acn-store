@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-08T00:20:10Z",
+  "generated_at": "2026-11-08T00:27:12Z",
   "apps": [
     {
       "id": "com.pulse.social",
@@ -9,19 +9,19 @@
       "category": "Social",
       "tagline": "Le réseau social privé entre amis",
       "description": "Réseau social privé auto-hébergé : posts, stories, messages privés en temps réel, amis proches et un mode « swap » unique pour incarner temporairement le compte d'un ami.",
-      "version_name": "3.4.0",
-      "version_code": 340,
+      "version_name": "3.4.1",
+      "version_code": 341,
       "min_sdk": 24,
-      "size_bytes": 12856152,
-      "sha256": "ca3c21340c6fdd06b90b365f5e85cbd39eef7a8efbe21c1f4cf8b6fed236e67e",
-      "download_url": "https://github.com/acnesia/hors-piste-releases/releases/download/v3.4.0/Hors-Piste.apk",
+      "size_bytes": 12856300,
+      "sha256": "4617512716a96140c46fd98d32f5c03bf5802ad3947680cf9cb216d6d45af4c0",
+      "download_url": "https://github.com/acnesia/hors-piste-releases/releases/download/v3.4.1/Hors-Piste.apk",
       "asset_name": "Hors-Piste.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.pulse.social.png",
       "screenshots": [
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.pulse.social_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.pulse.social_2.png"
       ],
-      "changelog": "• Sécurité Maximale Anti-Capture & Protection des Photos pendant les Swaps\n• Blocage matériel des captures d'écran et enregistrements d'écran (FLAG_SECURE) : Dès que vous incarnez le compte de quelqu'un d'autre en mode Swap (ou lors de l'ouverture d'une photo à vue unique), les captures d'écran, l'enregistrement vidéo d'écran, la diffusion d'écran et l'aperçu dans le multitâche Android sont intégralement bloqués par le système.\n• Photos et vidéos floutées par défaut en messagerie privée pendant un Swap : Les photos et vidéos reçues dans les messages privés ne s'affichent plus en clair dans la discussion pendant un swap.\n• Maintenir 1 doigt appuyé pour révéler + Filigrane de sécurité : Pour voir une photo en plein écran pendant un swap, il faut maintenir un seul doigt appuyé sur l'écran. La photo se masque instantanément dès que vous relâchez le doigt, si un second doigt touche l'écran (gestes de capture à 2 ou 3 doigts bloqués) ou si l'application perd le focus.\n• Verrouillage des téléchargements et exports de médias : Désactivation de l'enregistrement d'images/vidéos, du menu d'appui long, de la galerie des médias partagés et du partage externe pendant toute la durée d'un swap.\n• Détection et alerte en direct au propriétaire : Toute tentative de capture d'écran ou d'enregistrement de média pendant un swap est bloquée, signalée en direct au propriétaire du compte et inscrite en rouge dans le journal d'activité du swap (« Ce que @x a fait sur ton compte »).",
+      "changelog": "• Correctif des Commentaires en Double dans Mix (« Pour vous »)\n• Suppression de l'affichage en double des commentaires : Lorsque vous publiez un commentaire sur une photo ou un post dans le fil « Pour vous » (Mix), le commentaire ne s'affiche plus en double.\n• Compteur de commentaires exact : Le compteur de commentaires s'incrémente désormais d'une seule unité au moment de l'envoi.",
       "featured": true,
       "updated_at": "2026-11-08"
     },

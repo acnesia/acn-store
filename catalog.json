@@ -1,7 +1,30 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-08T00:37:15Z",
+  "generated_at": "2026-11-08T22:26:15Z",
   "apps": [
+    {
+      "id": "com.marcel.judgment",
+      "name": "Marcel",
+      "developer": "ACN Development",
+      "category": "Social",
+      "tagline": "Export WhatsApp to Judgment",
+      "description": "Instruction judiciaire et analyse cynique de vos discussions WhatsApp de couple : calcul balistique des temps de réponse, ratio de soumission, pièces à conviction sous scellés et verdict impitoyable de l'inspecteur Marcel.",
+      "version_name": "1.0",
+      "version_code": 1,
+      "min_sdk": 24,
+      "size_bytes": 4421400,
+      "sha256": "3042e227503ab71b88ede77b115ac54d143b84c2bcd02b2eb614039d46ce2954",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.marcel.judgment-v1.0/Marcel-1.0.apk",
+      "asset_name": "Marcel-1.0.apk",
+      "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.marcel.judgment.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.marcel.judgment_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.marcel.judgment_2.png"
+      ],
+      "changelog": "",
+      "featured": true,
+      "updated_at": "2026-11-08"
+    },
     {
       "id": "com.pulse.social",
       "name": "Hors-Piste",

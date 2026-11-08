@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-08T00:27:12Z",
+  "generated_at": "2026-11-08T00:37:15Z",
   "apps": [
     {
       "id": "com.pulse.social",
@@ -331,19 +331,19 @@
       "category": "Outils",
       "tagline": "Le store des apps ACN",
       "description": "Installez et mettez à jour toutes les applications ACN Development en un seul endroit, avec vérification d'intégrité de chaque fichier.",
-      "version_name": "2.4.0",
-      "version_code": 7,
+      "version_name": "2.4.1",
+      "version_code": 8,
       "min_sdk": 26,
-      "size_bytes": 13480261,
-      "sha256": "91729bf11214bc287d55ef83aca53a1813bdda773c859b588d789057d966318a",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acn.store-v2.4.0/ACN-Store-2.4.0.apk",
-      "asset_name": "ACN-Store-2.4.0.apk",
+      "size_bytes": 13479917,
+      "sha256": "306cd206fc6be0c43cc2e156b39c654de09adbadf9a94e25a5faec893e268aa1",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acn.store-v2.4.1/ACN-Store-2.4.1.apk",
+      "asset_name": "ACN-Store-2.4.1.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acn.store.png",
       "screenshots": [
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acn.store_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acn.store_2.png"
       ],
-      "changelog": "• Nouvel onglet Retours & Bugs connecté au backend Hors-Piste\n• Signalement de bugs et suggestions pour chaque application\n• Affichage clair avec statut, diagnostic appareil et réponses officielles",
+      "changelog": "• Téléchargement direct et mise à jour de l'ACN Store depuis l'application elle-même\n• Réinstallation et forçage de mise à jour accessibles à tout moment\n• Nouvel onglet Retours & Bugs connecté au backend Hors-Piste",
       "featured": false,
       "updated_at": "2026-11-08"
     }

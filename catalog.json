@@ -1,27 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-09T15:00:43Z",
+  "generated_at": "2026-11-12T10:27:25Z",
   "apps": [
-    {
-      "id": "com.lifestyle.calories",
-      "name": "LifeStyle Calories",
-      "developer": "ACN Development",
-      "category": "Santé",
-      "tagline": "Estimation calories par IA photo",
-      "description": "Application de suivi nutritionnel et d'estimation des calories et macronutriments par photo avec l'IA Gemini. Suivi des repas, objectifs quotidiens, poids et synchronisation Google Health Connect.",
-      "version_name": "1.1",
-      "version_code": 2,
-      "min_sdk": 26,
-      "size_bytes": 4158968,
-      "sha256": "14621fe9e2077b8c60c9b053b215809a0d37497a20e4fedacbca7b8278bed80b",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.lifestyle.calories-v1.1/LifeStyleCalories-1.1.apk",
-      "asset_name": "LifeStyleCalories-1.1.apk",
-      "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.lifestyle.calories.png",
-      "screenshots": [],
-      "changelog": "• Nouvelle page de connexion et d'inscription avec gestion de compte.\n• Accès Master illimité à l'API Gemini pour luc.clmx@gmail.com.\n• Clé API Gemini personnelle requise pour les utilisateurs standards.\n• Modèle mis à jour vers Gemini 2.5 Flash avec schéma JSON structuré (responseSchema).\n• Correction du conflit Google Search grounding et optimisation des photos.",
-      "featured": true,
-      "updated_at": "2026-11-09"
-    },
     {
       "id": "com.marcel.judgment",
       "name": "Marcel",
@@ -143,22 +123,22 @@
       "developer": "ACN Development",
       "category": "Productivité",
       "tagline": "Vos objectifs, jour après jour",
-      "description": "Suivi d'objectifs personnels au quotidien avec statistiques visuelles. Vos données restent sur votre téléphone.",
-      "version_name": "2.2.3",
-      "version_code": 9,
+      "description": "Rappels d'exercices au fil de la journée : plusieurs objectifs en parallèle (pompes, squats, gainage, hydratation…), report pendant tes parties, widget, statistiques sur la durée, trophées et escouade entre amis. Tes données restent sur ton téléphone.",
+      "version_name": "3.0.0",
+      "version_code": 11,
       "min_sdk": 26,
-      "size_bytes": 61345409,
-      "sha256": "853517d9c65760cba7254e3858edbf54dc9aeb13dfb476447ba19473a8cba756",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acnesia.pulsegoal-v2.2.3/PulseGoal-2.2.3.apk",
-      "asset_name": "PulseGoal-2.2.3.apk",
+      "size_bytes": 62617334,
+      "sha256": "27149135b09b52acf15c8c31e7a198de14114bd586d17a7b442eae2d1448cc2b",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acnesia.pulsegoal-v3.0.0/PulseGoal-3.0.0.apk",
+      "asset_name": "PulseGoal-3.0.0.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acnesia.pulsegoal.png",
       "screenshots": [
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.pulsegoal_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.pulsegoal_2.png"
       ],
-      "changelog": "",
+      "changelog": "• Refonte complète : nouvelle interface, plusieurs objectifs, widget\n• Nouvelle interface : design entièrement refait (écran Aujourd'hui, alarme, statistiques, escouade, profil), navigation à 4 onglets et vrai bouton retour.\n• Plusieurs objectifs en parallèle : pompes, squats, gainage, hydratation… chacun avec ses séries, son objectif du jour, son intervalle et sa couleur. Les rappels alternent automatiquement entre eux.\n• Widget d'écran d'accueil : prochaine série, progression du jour et bouton « Fait » sans ouvrir l'app.\n• Statistiques sur la durée : semaine, mois, année, calendrier de régularité sur 6 mois, records personnels et meilleur créneau horaire.\n• Sauvegarde et restauration de toutes tes données dans un fichier, plus une gestion complète de tes jeux et de leurs durées.\n• Démarrage en 30 secondes : nouvel onboarding en 5 étapes avec les autorisations utiles (notifications, alarme plein écran, batterie, démarrage auto Xiaomi).\n• Rappels plus fiables : alarme de secours si l'app est fermée par le système, la pause n'est plus annulée en revenant dans l'app, Super Island plus stable, notification classique sur les téléphones non-Xiaomi.",
       "featured": false,
-      "updated_at": "2026-09-30"
+      "updated_at": "2026-11-12"
     },
     {
       "id": "com.cutflow.app",

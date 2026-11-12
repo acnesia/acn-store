@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T10:27:25Z",
+  "generated_at": "2026-11-12T10:38:55Z",
   "apps": [
     {
       "id": "com.marcel.judgment",
@@ -124,19 +124,19 @@
       "category": "Productivité",
       "tagline": "Vos objectifs, jour après jour",
       "description": "Rappels d'exercices au fil de la journée : plusieurs objectifs en parallèle (pompes, squats, gainage, hydratation…), report pendant tes parties, widget, statistiques sur la durée, trophées et escouade entre amis. Tes données restent sur ton téléphone.",
-      "version_name": "3.0.0",
-      "version_code": 11,
+      "version_name": "3.0.1",
+      "version_code": 12,
       "min_sdk": 26,
-      "size_bytes": 62617334,
-      "sha256": "27149135b09b52acf15c8c31e7a198de14114bd586d17a7b442eae2d1448cc2b",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acnesia.pulsegoal-v3.0.0/PulseGoal-3.0.0.apk",
-      "asset_name": "PulseGoal-3.0.0.apk",
+      "size_bytes": 62667354,
+      "sha256": "8b43385e49970cfd0c6221d2231d366925cc4d26967369e77c98365be01f7687",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acnesia.pulsegoal-v3.0.1/PulseGoal-3.0.1.apk",
+      "asset_name": "PulseGoal-3.0.1.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acnesia.pulsegoal.png",
       "screenshots": [
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.pulsegoal_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.pulsegoal_2.png"
       ],
-      "changelog": "• Refonte complète : nouvelle interface, plusieurs objectifs, widget\n• Nouvelle interface : design entièrement refait (écran Aujourd'hui, alarme, statistiques, escouade, profil), navigation à 4 onglets et vrai bouton retour.\n• Plusieurs objectifs en parallèle : pompes, squats, gainage, hydratation… chacun avec ses séries, son objectif du jour, son intervalle et sa couleur. Les rappels alternent automatiquement entre eux.\n• Widget d'écran d'accueil : prochaine série, progression du jour et bouton « Fait » sans ouvrir l'app.\n• Statistiques sur la durée : semaine, mois, année, calendrier de régularité sur 6 mois, records personnels et meilleur créneau horaire.\n• Sauvegarde et restauration de toutes tes données dans un fichier, plus une gestion complète de tes jeux et de leurs durées.\n• Démarrage en 30 secondes : nouvel onboarding en 5 étapes avec les autorisations utiles (notifications, alarme plein écran, batterie, démarrage auto Xiaomi).\n• Rappels plus fiables : alarme de secours si l'app est fermée par le système, la pause n'est plus annulée en revenant dans l'app, Super Island plus stable, notification classique sur les téléphones non-Xiaomi.",
+      "changelog": "• Minuteur modifiable, réglages simplifiés, Super Island discrète\n• Modifier la prochaine série : nouveau bouton sur l'écran Aujourd'hui (ou toucher l'anneau) pour lancer la série tout de suite, la décaler de 1 min à 2 h, choisir une durée libre, ajuster de 10 min ou remettre l'intervalle habituel.\n• Réglages plus clairs : accès par la roue crantée de l'écran Aujourd'hui, et un menu de 10 rubriques expliquées en une phrase, chacune ouvrant sa propre page.\n• Super Island HyperOS : n'apparaît plus que pendant la dernière minute avant le rappel (et pendant l'alarme). Le reste du temps, simple notification discrète.",
       "featured": false,
       "updated_at": "2026-11-12"
     },

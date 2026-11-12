@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T10:38:55Z",
+  "generated_at": "2026-11-12T17:52:46Z",
   "apps": [
     {
       "id": "com.marcel.judgment",
@@ -124,19 +124,19 @@
       "category": "Productivité",
       "tagline": "Vos objectifs, jour après jour",
       "description": "Rappels d'exercices au fil de la journée : plusieurs objectifs en parallèle (pompes, squats, gainage, hydratation…), report pendant tes parties, widget, statistiques sur la durée, trophées et escouade entre amis. Tes données restent sur ton téléphone.",
-      "version_name": "3.0.1",
-      "version_code": 12,
+      "version_name": "3.0.2",
+      "version_code": 13,
       "min_sdk": 26,
-      "size_bytes": 62667354,
-      "sha256": "8b43385e49970cfd0c6221d2231d366925cc4d26967369e77c98365be01f7687",
-      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acnesia.pulsegoal-v3.0.1/PulseGoal-3.0.1.apk",
-      "asset_name": "PulseGoal-3.0.1.apk",
+      "size_bytes": 62669294,
+      "sha256": "99b1226310ac693ca3f5c7dd85d8a2250e0554f8c1cc6f0558e6eb3ed2ce1387",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.acnesia.pulsegoal-v3.0.2/PulseGoal-3.0.2.apk",
+      "asset_name": "PulseGoal-3.0.2.apk",
       "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.acnesia.pulsegoal.png",
       "screenshots": [
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.pulsegoal_1.png",
         "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.acnesia.pulsegoal_2.png"
       ],
-      "changelog": "• Minuteur modifiable, réglages simplifiés, Super Island discrète\n• Modifier la prochaine série : nouveau bouton sur l'écran Aujourd'hui (ou toucher l'anneau) pour lancer la série tout de suite, la décaler de 1 min à 2 h, choisir une durée libre, ajuster de 10 min ou remettre l'intervalle habituel.\n• Réglages plus clairs : accès par la roue crantée de l'écran Aujourd'hui, et un menu de 10 rubriques expliquées en une phrase, chacune ouvrant sa propre page.\n• Super Island HyperOS : n'apparaît plus que pendant la dernière minute avant le rappel (et pendant l'alarme). Le reste du temps, simple notification discrète.",
+      "changelog": "• Alarme simple : valider ou reporter d'un geste\n• Notification d'alarme : trois gros boutons, « C'est fait », « +10 min » et « +15 min ».\n• Écran Aujourd'hui : quand la série est prête ou que ça sonne, les boutons « +10 min » et « +15 min » apparaissent sous « C'est fait ».\n• Alarme plein écran : bannière d'aide quand l'autorisation manque, et boutons dans Réglages pour autoriser le plein écran et les pop-up en arrière-plan sur Xiaomi.",
       "featured": false,
       "updated_at": "2026-11-12"
     },

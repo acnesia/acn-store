@@ -1,7 +1,32 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T17:52:46Z",
+  "generated_at": "2026-11-21T20:38:59Z",
   "apps": [
+    {
+      "id": "com.voltpulse.battery",
+      "name": "VoltPulse",
+      "developer": "ACN Development",
+      "category": "Outils",
+      "tagline": "Diagnostic batterie zéro drain",
+      "description": "Diagnostic batterie technique haute précision à consommation quasi nulle (< 1 %/jour) : jauge de puissance en Watts, courant normalisé multi-constructeurs, estimation d'usure réelle en mAh, suivi Deep Sleep vs CPU et alertes thermiques ou limite de charge configurables.",
+      "version_name": "1.0.0",
+      "version_code": 1,
+      "min_sdk": 26,
+      "size_bytes": 2030970,
+      "sha256": "3d9be046fff66ad11165e234567afe2bb45bb1e28cf16cf57b596d3e9d6718c8",
+      "download_url": "https://github.com/acnesia/acn-store/releases/download/com.voltpulse.battery-v1.0.0/VoltPulse-1.0.0.apk",
+      "asset_name": "VoltPulse-1.0.0.apk",
+      "icon_url": "https://raw.githubusercontent.com/acnesia/acn-store/main/icons/com.voltpulse.battery.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.voltpulse.battery_1.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.voltpulse.battery_2.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.voltpulse.battery_3.png",
+        "https://raw.githubusercontent.com/acnesia/acn-store/main/screenshots/com.voltpulse.battery_4.png"
+      ],
+      "changelog": "• Tableau de bord temps réel Obsidian : puissance (W), tension (mV), courant normalisé (mA) et température\n• Estimation de la capacité réelle (mAh) et suivi des cycles cumulés sur charges ≥ 15 %\n• Analyse Deep Sleep vs CPU actif et comparaison écran allumé / veille (%/h)\n• Alertes configurables fin de charge et surchauffe + exemption Doze",
+      "featured": true,
+      "updated_at": "2026-11-21"
+    },
     {
       "id": "com.marcel.judgment",
       "name": "Marcel",
